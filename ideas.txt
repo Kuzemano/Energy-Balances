@@ -1,0 +1,6 @@
+Za sekoj poedinecen feature napravi dataframe kako time series od godinite za sekoi 36
+    - forecast analysis 
+
+Compare sectors i.e. statistical analysis on the sectors and how they influence eachother
+    - divided by year and compared as such 
+    - compared within a year 
